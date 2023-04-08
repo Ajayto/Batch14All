@@ -31,6 +31,6 @@ class A{
 
 class B{
 	void m() {
-		System.out.println("this is new method added");
+		System.out.println("this is changes done by ajay");
 	}
 }
