@@ -27,5 +27,11 @@ class child extends parent{
 		System.out.println("a="+a);
 		print();
 	}
+		
+		class child3 extends parent{
+	void getData() {
+		System.out.println("a="+a);
+		print();
+	}
 	
 }
