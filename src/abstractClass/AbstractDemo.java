@@ -8,6 +8,7 @@ public class AbstractDemo {
 		NewUser u= new NewUser();
 
 		NewUser u2= new NewUser();
+		NewUser u4= new NewUser();
 		
 	}
 
