@@ -22,4 +22,10 @@ class child extends parent{
 		print();
 	}
 	
+	class child2 extends parent{
+	void getData() {
+		System.out.println("a="+a);
+		print();
+	}
+	
 }
