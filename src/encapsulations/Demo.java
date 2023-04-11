@@ -28,3 +28,12 @@ class A{
 	}
 	
 }
+
+class B{
+	void m() {
+
+		System.out.println("this is to test git account");
+
+	}
+	
+}

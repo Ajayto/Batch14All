@@ -6,8 +6,9 @@ public class AbstractDemo {
 		// TODO Auto-generated method stub
 		
 		NewUser u= new NewUser();
-		NewUser u= new NewUser();
 
+		NewUser u2= new NewUser();
+		
 	}
 
 }
